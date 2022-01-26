@@ -1,4 +1,6 @@
 <p align="center">
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/10b9f452-e39f-49d9-8438-8ff997a8289b.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/secdevlabs?orgId=560723739106)  
   <img src="images/secDevLabs-logo.png" allign="center" height=""/>
   <!-- logo font: Agency FB Bold Condensed -->
 </p>
